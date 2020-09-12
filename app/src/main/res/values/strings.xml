@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Display App</string>
+    <string name="enter_something_to_dispay">Enter Something to Dispay</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="send">Send</string>
+    <string name="font">sans-serif-condensed-medium</string>
+    <string name="font2">sans-serif-condensed-medium</string>
+</resources>
